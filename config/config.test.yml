@@ -1,0 +1,4 @@
+token: "apikey 2a598ec0-1234-abcd-efgh-6a26c6132eca"
+products:
+  cdn: true
+  object: true
